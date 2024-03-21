@@ -76,12 +76,13 @@
 				</a>
 			</li>
 			<li>
-			<a href="room">
-				<svg class="glyph stroked app-window hide">
-					<use xlink:href="#stroked-app-window"></use>
-				</svg>
-				
-			</a>
+				<a href="room">
+					<svg class="glyph stroked app-window">
+						<use xlink:href="#stroked-app-window"></use>
+					</svg>
+					Room
+				</a>
+			</li>
 			</li>
 			<li>
 				<a href="inventory">

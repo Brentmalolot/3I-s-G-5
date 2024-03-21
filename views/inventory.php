@@ -74,6 +74,14 @@
 					</svg>
 					Borrower
 				</a>
+			</li>	
+			<li>
+				<a href="room">
+					<svg class="glyph stroked app-window">
+						<use xlink:href="#stroked-app-window"></use>
+					</svg>
+					Room
+				</a>
 			</li>
 			<li class="active">
 				<a href="#">

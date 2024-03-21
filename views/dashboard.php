@@ -76,6 +76,14 @@
 				</a>
 			</li>
 			<li>
+				<a href="room">
+					<svg class="glyph stroked app-window">
+						<use xlink:href="#stroked-app-window"></use>
+					</svg>
+					Room
+				</a>
+			</li>
+			<li>
 				<a href="inventory">
 					<svg class="glyph stroked clipboard with paper">
 						<use xlink:href="#stroked-clipboard-with-paper"/>
@@ -115,9 +123,8 @@
 					<div class="col-lg-12">
 						<h1 class="page-header">Dashboard</h1>
 					</div>
-				</div><!--/.row-->
-
-				<!-- <div class="row">
+				</div>
+				<div class="row">
 					<div class="col-xs-12 col-md-6 col-lg-3">
 						<div class="panel panel-blue panel-widget ">
 							<div class="row no-padding">
@@ -170,66 +177,7 @@
 							</div>
 						</div>
 					</div>
-				</div><!--/.row-->
-
-				<!-- <hr/>
-				<div class="row">
-
-					<div class="col-md-12 col-xs-12 col-sm-12">
-						<div class="panel panel-primary">
-							<div class="panel-heading">
-								<h4 class="text-white">Inventory item</h4>
-							</div>
-							<div class="panel-body">
-								<div class="col-md-12" id="inventory" style="height: 500px;"></div>
-							</div>
-						</div>
-					</div>
-
-				<hr/>
-					<div class="col-md-12 col-xs-12 col-sm-12">
-						<div class="panel panel-blue">
-							<div class="panel-heading dark-overlay">
-								History Logs
-							</div>
-							<div class="panel-body">
-								<ul class="todo-list">
-								
-								</ul>
-							</div>
-						</div>
-					</div> -->
-
-				<!-- /div> -->
-				<div class="row">
-					<div class="col-sm-offset-3 col-sm-6">
-						<h2 style="text-align:center;">Calendar of Reservation</h2>
-						<div id="calendar"></div>
-					</div>
 				</div>
-				<hr/>
-				<div class="row">
-					<table class="table table_dashboard">
-						<thead>
-							<tr>
-								<td><strong>Model</strong></td>
-								<td><strong>Category</strong></td>
-								<td><strong>Brand</strong></td>
-								<td><strong>Description</strong></td>
-								<td><strong>Quantity</strong></td>
-								<td><strong>Status</strong></td>
-								
-								
-							</tr>
-						</thead>
-					</table>
-				</div>
-
-<hr/>
-			</div>
-		</div>
-		
-	</div>
 <?php include 'footer.php'; ?>
 <script type="text/javascript">
 	$(document).ready(function() {

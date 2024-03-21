@@ -6,7 +6,7 @@ Version 1.0
 /*Global Styles*/
 
 body {
-  background: #f1f4f7;
+  background: maroon;
   padding-top: 50px;
   color: #5f6468;
 }
@@ -540,7 +540,7 @@ a.bg-danger:hover {
 
 .navbar input {
   border: 0;
-  background: #444;
+  background: #aeadad;
   color: #fff;
 }
 

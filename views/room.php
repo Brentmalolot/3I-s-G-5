@@ -18,9 +18,9 @@ include 'header.php';
 			</a>
 		</li>
 		<li class="parent ">
-			<a href="#sub-item-1" data-toggle="collapse">
-					<span data-toggle="collapse" href="#sub-item-1"><svg class="glyph stroked chevron-down"><use xlink:href="#stroked-chevron-down"></use></svg></span> Transaction 
-				</a>
+			<a href="#">
+				<span data-toggle="collapse" href="#sub-item-1"><svg class="glyph stroked chevron-down"><use xlink:href="#stroked-chevron-down"></use></svg></span> Transaction 
+			</a>
 			<ul class="children collapse" id="sub-item-1">
 				<li>
 					<a class="" href="reservation">
