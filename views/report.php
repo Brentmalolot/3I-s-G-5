@@ -101,12 +101,7 @@
 
 	<div class="col-sm-9 col-lg-10 col-md-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-3 main">
 		
-		<div class="row">
-			<ol class="breadcrumb">
-				<li><a href="dashboard"><svg class="glyph stroked home"><use xlink:href="#stroked-home"></use></svg></a></li>
-				<li class="active">Graph</li>
-			</ol>
-		</div><!--/.row-->
+		
 
 		<div class="row">
 			<br/>

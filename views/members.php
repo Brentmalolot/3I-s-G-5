@@ -110,14 +110,9 @@ include 'header.php';
 			<li><a href="dashboard"><svg class="glyph stroked home"><use xlink:href="#stroked-home"></use></svg></a></li>
 			<li class="active">Borrower</li>
 		</ol>
-		<div class="breadcrumb">
-			<button class="btn btn-primary col-sm-offset-7 add_member">
-				<svg class="glyph stroked plus sign">
-					<use xlink:href="#stroked-plus-sign"/>
-				</svg>
-				Upload CSV File
-			</button>
-			<button class="btn btn-primary add_student">
+																																																					<div class="breadcrumb">
+			
+					<button class="btn btn-primary add_student">
 				<svg class="glyph stroked plus sign">
 					<use xlink:href="#stroked-plus-sign"/>
 				</svg>

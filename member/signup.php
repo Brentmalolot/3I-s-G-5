@@ -112,13 +112,13 @@
 						<label>Department</label>
 						<select name="s_department" class="form-control" required>
 							<option disabled selected>Select department</option>
-							<option>AB</option>
-							<option>BEED</option>
-							<option>BSED</option>
-							<option>BSCE</option>
-							<option>BSHRM</option>
-							<option>BSIS</option>
-							<option>BSIT</option>
+							<option>ABM</option>
+							<option>STEM</option>
+							<option>HUMMS</option>
+							<option>ARTS AND DESIGN</option>
+							<option>PROGRAMMING</option>
+							<option>CSS</option>
+							<option>SPORTS</option>
 						</select>
 					</div>
 					<div class="form-group hide">
@@ -131,11 +131,9 @@
 								<label>Year</label>
 								<select name="s_year" class="form-control" required>
 									<option selected disabled>Select year</option>
-									<option>1st</option>
-									<option>2nd</option>
-									<option>3rd</option>
-									<option>4th</option>
-									<option>5th</option>
+									<option>11st</option>
+									<option>12nd</option>
+									
 								</select>
 							</div>
 							<div class="col-md-6">
